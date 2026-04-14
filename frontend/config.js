@@ -8,3 +8,4 @@ const CONFIG = {
   // When hosted on Render, the frontend uses the same origin automatically.
   API_URL: IS_LOCAL ? "http://localhost:5050" : window.location.origin,
 };
+const API_URL = "https://codevise-ogsx.onrender.com";
